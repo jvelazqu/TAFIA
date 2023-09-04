@@ -1,0 +1,41 @@
+{
+  "job_name": "JOB006",
+  "job_description": "Job 006",
+  "job_quantity": 1000,
+  "job_type": "Manual",
+  "product_name": "111111",
+  "processes": [
+    {
+      "prc_step": 1,
+      "prc_name": "STARTING",
+      "prc_description": "Initial process",
+      "prc_status": "On",
+      "prc_type": "M",
+      "eqp_name": "EQP1"
+    },
+    {
+      "prc_step": 2,
+      "prc_name": "PROCESS1",
+      "prc_description": "Process 1",
+      "prc_status": "On",
+      "prc_type": "M",
+      "eqp_name": "EQP2"
+    },
+    {
+      "prc_step": 3,
+      "prc_name": "PROCESS2",
+      "prc_description": "Process 2",
+      "prc_status": "On",
+      "prc_type": "M",
+      "eqp_name": "EQP3"
+    },
+    {
+      "prc_step": 4,
+      "prc_name": "PROCESS3",
+      "prc_description": "Process 3",
+      "prc_status": "On",
+      "prc_type": "M",
+      "eqp_name": "EQP4"
+    }
+  ]
+}
